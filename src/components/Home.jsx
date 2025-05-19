@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Home() {
   return (
-    <div className="home-page" style={{minWidth:'100vw'}}>
+    <div className="home-page" style={{minWidth:'70vw'}}>
       <div className="hero-section">
         <h1>Welcome to Retailer</h1>
         <p>Your one-stop shop for all your needs</p>
